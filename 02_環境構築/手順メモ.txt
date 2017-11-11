@@ -1,0 +1,102 @@
+・XAMPPのインストール
+
+1.https://www.apachefriends.org/jp/index.html
+
+2.windows向けXAMPPを選択、.exeファイルがダウンロードされるまで待機
+
+3.Nextを選択
+
+4.Nextを選択
+
+5.Nextを選択
+
+6.Nextを選択
+
+7.チェックをはずし、Nextを選択
+
+8.選択後、インストールされるまで待機※ファイルサイズ1GB
+
+9.Finishを選択
+
+10.Langugageを英語に選択し、saveを選択
+
+11.パネルが表示されたらインストール完了
+
+・TortoiseGitのインストール
+
+1.TortoiseGitを利用するには、先にmsysgitをインストールする必要があるので
+　下記URLをブラウザに入力する
+　「https://git-for-windows.github.io/」
+
+2.Downloadを選択
+
+3.mysgit.exeを管理者権限でクリックする
+
+4.Nextを選択
+
+5.Nextを選択
+
+6.Use Git Bash onlyを選択し、Nextを選択
+
+7.OpenSSLを選択し、Nextを選択
+
+8.Checkout as-is, commit as-isを選択し、Nextを選択
+
+9.Minttyを選択し、Nextを選択
+
+10.「Enable file system caching」と「Enable Git Credential Manager」のチェックをはずしNextを選択
+
+11.インストールがはじまるので待機
+
+12.Finishを選択
+
+13.TortoiseGitを「https://tortoisegit.org/」でダウンロード
+
+14.Downloadを選択
+
+15.Download TortoiseGit 2.4.0.2を32bitか64bitのどちらかを選択しダウンロード
+　※日本語化したい場合下記にLanguage PackがあるのでJapanの32bitか64bitを選択
+
+16.ダウンロードされたTortoiseGitのexeをクリック
+
+17.インストーラーが起動したらNextを選択
+
+18.Nextを選択
+
+19.Nextを選択
+
+20.Installを選択
+
+21.Nextを選択
+
+22.Nextを選択
+
+23.Finishを選択
+
+24.デスクトップを右クリックし、メニューにTortoiseGitが表示されればインストールが完了
+
+・CakePHPのインストール
+
+1.CakePHPを下記URLからダウンロード
+　「https://getcomposer.org/」
+
+2.ダウンロードを選択
+
+3.「 Composer-Setup.exe」のリンクをクリックする
+
+4.Composerのexeがダウンロードされるので実行
+
+5.インストーラーが起動したらNextを選択
+
+6.Nextを選択
+
+7.Nextを選択
+
+8.Instlalを選択
+
+9.Nextを選択
+
+10.Finishを選択
+
+11.コマンドプロンプトを起動、下記コマンドを実行　
+　 cd /d \XAMPPインストールフォルダ\htdocs

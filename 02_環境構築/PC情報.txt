@@ -1,0 +1,12 @@
+1.TEC15002
+ID:   TEC15002\localadmin
+PASS: Kaihatu15002
+
+2.TEC15005
+ID:   TEC15005\localadmin
+PASS: Kaihatu15005
+
+3.TEC204
+ID:   TEC204\localadmin
+PASS: Kaihatu204
+
