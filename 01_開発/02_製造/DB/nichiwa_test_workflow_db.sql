@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: 2017 年 11 朁E11 日 06:52
+-- Generation Time: 2017 年 11 朁E11 日 07:10
 -- サーバのバージョン： 10.1.24-MariaDB
 -- PHP Version: 7.1.6
 
